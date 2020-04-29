@@ -1,15 +1,15 @@
-#THIS FILE IS FOR MARKDOWN LANGUAGE PRACTICE
+# THIS FILE IS FOR MARKDOWN LANGUAGE PRACTICE
 
-##HEADING
+## HEADING
 
-#HelloWorld this is first largest text H1 and uses 1 `#` at start.
-##This is my first markdown language file this seconds largest text H2 and uses 2 `##` at start.
-###This is third largest text H3 and uses 3 `###` at start.
-####This fourth largest text H4 and uses 4 `####` at start.
-#####This fifth largest text H5 and uses 5 `#####` at start.
-######This is the smalles heading text H6 and uses 6 `######` at start.
+# HelloWorld this is first largest text H1 and uses 1 `#` at start.
+## This is my first markdown language file this seconds largest text H2 and uses 2 `##` at start.
+### This is third largest text H3 and uses 3 `###` at start.
+#### This fourth largest text H4 and uses 4 `####` at start.
+##### This fifth largest text H5 and uses 5 `#####` at start.
+###### This is the smalles heading text H6 and uses 6 `######` at start.
 
-##Styling Text
+## Styling Text
 
 The text below is using style of text the bold uses 2 asterisks `**` or 2 undersquare `__` at start and end of text and italic uses 1 asterisks `*` or 1 undersquare `_` at start and of text:
 
@@ -33,7 +33,7 @@ Mistakes or strikethrough text are written with 2 tilde `~~` at start and end:
 
 ~~This is a mistake to understand~~
 
-##Quoting Text
+## Quoting Text
 
 The text below is qouted word and uses `>` sign at start:
 >Hello I am qouted text
@@ -49,13 +49,13 @@ git log
 git branch
 ```
 
-##Links
+## Links
 
 This is link and uses squarebrackets for text and parenthesis for the URL at start []() [Here goes text](Here goes the URL):
 
 [This is Google link](https://www.google.com.pk)
 
-##Lists
+## Lists
 
 This is a simple ordered list with no code:
 
@@ -69,7 +69,7 @@ This is unordered list and uses a single hypehen at start `-` for bullets :
 - B for Ball
 - C for Cat
  
-##Nested List
+## Nested List
 
 This is nested list and used and can be created by indenting(tabspace) after first line and using hyphen `-` and then space at start to show the 2nd line and so on for other lines:
 For example:
@@ -85,7 +85,7 @@ For example:
         - Hello world
         - Internet of Things
 
-##Task List
+## Task List
 
 This is task list and uses squarebrackets at start with a space between bracketes to make it unchecked `[ ]` and `[x]` to make it checked:
 
@@ -93,4 +93,4 @@ This is task list and uses squarebrackets at start with a space between brackete
 [ ] This task is not complete uses command at start [ ]
 
 
-###Copyright © 2020 all rights reserved by Muhammad Farjad Ali Raza
+### Copyright © 2020 all rights reserved by Muhammad Farjad Ali Raza
