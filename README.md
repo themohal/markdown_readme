@@ -89,9 +89,9 @@ For example:
 
 This is task list and uses squarebrackets at start with a space between bracketes to make it unchecked `[ ]` and `[x]` to make it checked:
 
-[x] This task is complete. 
+*[x] This task is complete. 
 
-[ ] This task is not complete. 
+*[ ] This task is not complete. 
 
 
 ### Copyright © 2020 all rights reserved by Muhammad Farjad Ali Raza
