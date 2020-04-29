@@ -2,12 +2,12 @@
 
 ## HEADING
 
-# HelloWorld this is first largest text H1 and uses 1 `#` at start.
-## This is my first markdown language file and this is second largest text H2 and uses 2 `##` at start.
-### This is third largest text H3 and uses 3 `###` at start.
-#### This fourth largest text H4 and uses 4 `####` at start.
-##### This fifth largest text H5 and uses 5 `#####` at start.
-###### This is the smalles heading text H6 and uses 6 `######` at start.
+# HelloWorld this is first largest text H1 and uses 1 `#`and space and then text at start.
+## This is my first markdown language file and this is second largest text H2 and uses 2 `##` space and then text at start.
+### This is third largest text H3 and uses 3 `###` space and then text at start.
+#### This fourth largest text H4 and uses 4 `####` space and then text at start.
+##### This fifth largest text H5 and uses 5 `#####` space and then text at start.
+###### This is the smalles heading text H6 and uses 6 `######` space and then text at start.
 
 ## Styling Text
 
@@ -39,7 +39,7 @@ The text below is qouted word and uses `>` sign at start:
 
 >Hello I am qouted text
 
-##Quoting Code
+## Quoting Code
 
 Quoted code uses single backtick \` to display it as higlighted:
 `git rebase` is used to rebase the branches and is complex
