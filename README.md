@@ -41,7 +41,7 @@ The text below is qouted word and uses `>` sign at start:
 
 ## Quoting Code
 
-Quoted code uses single backtick \`\` to display it as higlighted:
+Quoted code uses single backtick \` to display it as higlighted:
 `git rebase` is used to rebase the branches and is complex
 Git commands written below are qouted using three backticks \``` at start and end to display multilines of code:
 ```
@@ -90,9 +90,9 @@ For example:
 
 This is task list and uses hyphen `-` then space and squarebrackets at start with a space between bracketes to make it unchecked `[ ]` and `[x]` to make it checked e.g `- [x] some text here`:
 
-- [x] \(Optional) This task is complete. 
+- [x]  This task is complete. 
 
-- [ ] \(Optional) This task is not complete. 
+- [ ]  This task is not complete. 
 
 
 ### Copyright :copyright: 2020 all rights reserved by Muhammad Farjad Ali Raza
