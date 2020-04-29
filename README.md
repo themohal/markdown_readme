@@ -143,7 +143,6 @@ This is task list and uses hyphen `-` then space and squarebrackets at start wit
 😂 - :joy:
 😲 - :astonished:
 😱 - :scream:
-:neckbeard: - :neckbeard:
 😫 - :tired_face:
 😠 - :angry:
 😡 - :rage:
@@ -229,8 +228,6 @@ This is task list and uses hyphen `-` then space and squarebrackets at start wit
 💁 - :information_desk_person:
 🙋 - :raising_hand:
 👰 - :bride_with_veil:
-:person_with_pouting_face: - :person_with_pouting_face:
-:person_frowning: - :person_frowning:
 🙇 - :bow:
 💏 - :couplekiss:
 💑 - :couple_with_heart:
@@ -244,7 +241,6 @@ This is task list and uses hyphen `-` then space and squarebrackets at start wit
 👶 - :baby:
 👵 - :older_woman:
 👴 - :older_man:
-:person_with_blond_hair: - :person_with_blond_hair:
 👲 - :man_with_gua_pi_mao:
 👳‍♂️ - :man_with_turban:
 👷 - :construction_worker:
@@ -291,7 +287,8 @@ This is task list and uses hyphen `-` then space and squarebrackets at start wit
 :rage4: - :rage4:
 :suspect: - :suspect:
 :trollface: - :trollface:
-Nature
+
+## Nature
 
 ☀️ - :sunny:
 ☔ - :umbrella:
@@ -408,7 +405,8 @@ Nature
 ⛅ - :partly_sunny:
 :octocat: - :octocat:
 :squirrel: - :squirrel:
-Objects
+
+## Objects
 
 🎍 - :bamboo:
 💝 - :gift_heart:
@@ -670,7 +668,8 @@ Objects
 🍆 - :eggplant:
 🍅 - :tomato:
 🌽 - :corn:
-Places
+
+## Places
 
 🏠 - :house:
 🏡 - :house_with_garden:
@@ -778,7 +777,8 @@ Places
 🇬🇧 - :gb:
 🇬🇧 - :uk:
 🇩🇪 - :de:
-Symbols
+
+#Symbols
 
 1️⃣ - :one:
 2️⃣ - :two:
