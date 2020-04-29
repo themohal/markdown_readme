@@ -36,6 +36,7 @@ Mistakes or strikethrough text are written with 2 tilde `~~` at start and end:
 ## Quoting Text
 
 The text below is qouted word and uses `>` sign at start:
+
 >Hello I am qouted text
 
 ##Quoting Code
@@ -87,7 +88,7 @@ For example:
 
 ## Task List
 
-This is task list and uses squarebrackets at start with a space between bracketes to make it unchecked `[ ]` and `[x]` to make it checked:
+This is task list and uses hyphen `-` then space and squarebrackets at start with a space between bracketes to make it unchecked `[ ]` and `[x]` to make it checked e.g `- [x] some text here`:
 
 - [x] This task is complete. 
 
