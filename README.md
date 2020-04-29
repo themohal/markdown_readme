@@ -3,7 +3,7 @@
 ## HEADING
 
 # HelloWorld this is first largest text H1 and uses 1 `#` at start.
-## This is my first markdown language file this seconds largest text H2 and uses 2 `##` at start.
+## This is my first markdown language file and this is second largest text H2 and uses 2 `##` at start.
 ### This is third largest text H3 and uses 3 `###` at start.
 #### This fourth largest text H4 and uses 4 `####` at start.
 ##### This fifth largest text H5 and uses 5 `#####` at start.
@@ -89,8 +89,8 @@ For example:
 
 This is task list and uses squarebrackets at start with a space between bracketes to make it unchecked `[ ]` and `[x]` to make it checked:
 
-[x] This task is complete 
-[ ] This task is not complete uses command at start [ ]
+\[x] This task is complete. 
+\[ ] This task is not complete. 
 
 
 ### Copyright © 2020 all rights reserved by Muhammad Farjad Ali Raza
