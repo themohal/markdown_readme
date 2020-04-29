@@ -403,8 +403,6 @@ This is task list and uses hyphen `-` then space and squarebrackets at start wit
 🌋 - :volcano:
 🌌 - :milky_way:
 ⛅ - :partly_sunny:
-:octocat: - :octocat:
-:squirrel: - :squirrel:
 
 ## Objects
 
@@ -778,7 +776,7 @@ This is task list and uses hyphen `-` then space and squarebrackets at start wit
 🇬🇧 - :uk:
 🇩🇪 - :de:
 
-#Symbols
+## Symbols
 
 1️⃣ - :one:
 2️⃣ - :two:
